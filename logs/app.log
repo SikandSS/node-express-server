@@ -1,0 +1,238 @@
+[2025-07-20T14:57:02.808Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T14:57:32.809Z] ERROR: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017
+[2025-07-20T15:15:24.710Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T15:15:24.726Z] INFO: MongoDB connected
+[2025-07-20T17:06:52.120Z] INFO: ::1 - - [20/Jul/2025:17:06:52 +0000] "GET /api-docs HTTP/1.1" 500 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T17:10:04.396Z] INFO: Server is running on http://localhost:undefined
+[2025-07-20T17:10:04.412Z] INFO: MongoDB connected
+[2025-07-20T17:11:30.355Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T17:11:30.379Z] INFO: MongoDB connected
+[2025-07-20T17:11:30.494Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+[2025-07-20T17:11:30.500Z] INFO: ::1 - - [20/Jul/2025:17:11:30 +0000] "GET / HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T17:11:30.542Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+[2025-07-20T17:11:30.544Z] INFO: ::1 - - [20/Jul/2025:17:11:30 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T17:12:07.687Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+[2025-07-20T17:12:07.689Z] INFO: ::1 - - [20/Jul/2025:17:12:07 +0000] "GET / HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T17:12:07.722Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\xss-clean\lib\index.js:8:30
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+[2025-07-20T17:12:07.724Z] INFO: ::1 - - [20/Jul/2025:17:12:07 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:46:52.627Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T18:46:52.644Z] INFO: MongoDB connected
+[2025-07-20T18:46:52.739Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:46:52.748Z] INFO: ::1 - - [20/Jul/2025:18:46:52 +0000] "GET / HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:46:52.800Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:46:52.803Z] INFO: ::1 - - [20/Jul/2025:18:46:52 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:11.960Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:11.962Z] INFO: ::1 - - [20/Jul/2025:18:47:11 +0000] "GET /swager-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:11.992Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:11.994Z] INFO: ::1 - - [20/Jul/2025:18:47:11 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:17.519Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:17.520Z] INFO: ::1 - - [20/Jul/2025:18:47:17 +0000] "GET /swagger-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:17.551Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:17.554Z] INFO: ::1 - - [20/Jul/2025:18:47:17 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:23.779Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:23.780Z] INFO: ::1 - - [20/Jul/2025:18:47:23 +0000] "GET /swagger-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:47:23.806Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:47:23.808Z] INFO: ::1 - - [20/Jul/2025:18:47:23 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:01.383Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:01.386Z] INFO: ::1 - - [20/Jul/2025:18:48:01 +0000] "GET /api-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:01.430Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:01.432Z] INFO: ::1 - - [20/Jul/2025:18:48:01 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:48.898Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:48.900Z] INFO: ::1 - - [20/Jul/2025:18:48:48 +0000] "GET /api-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:48.923Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:48.924Z] INFO: ::1 - - [20/Jul/2025:18:48:48 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:50.865Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:50.867Z] INFO: ::1 - - [20/Jul/2025:18:48:50 +0000] "GET /api-docs HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:48:50.890Z] ERROR: TypeError: Cannot set property query of #<IncomingMessage> which has only a getter
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:113:18
+    at Array.forEach (<anonymous>)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\express-mongo-sanitize\index.js:110:44
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:342:13)
+    at C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:297:9
+    at processParams (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:582:12)
+    at next (C:\Users\pc\Documents\node-express-serveer\node_modules\router\index.js:291:5)
+    at compression (C:\Users\pc\Documents\node-express-serveer\node_modules\compression\index.js:243:5)
+    at Layer.handleRequest (C:\Users\pc\Documents\node-express-serveer\node_modules\router\lib\layer.js:152:17)
+[2025-07-20T18:48:50.892Z] INFO: ::1 - - [20/Jul/2025:18:48:50 +0000] "GET /favicon.ico HTTP/1.1" 500 83 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:17.498Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T18:49:17.514Z] INFO: MongoDB connected
+[2025-07-20T18:49:22.671Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs HTTP/1.1" 301 158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:22.680Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs/ HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:22.710Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:22.717Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:22.723Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:22.766Z] INFO: ::1 - - [20/Jul/2025:18:49:22 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:49:23.017Z] INFO: ::1 - - [20/Jul/2025:18:49:23 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 200 628 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+[2025-07-20T18:59:07.542Z] INFO: Server is running on http://localhost:3000
+[2025-07-20T18:59:07.586Z] INFO: MongoDB connected

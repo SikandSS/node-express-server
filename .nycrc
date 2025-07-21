@@ -1,0 +1,7 @@
+{
+  "reporter": ["lcov", "text"],
+  "exclude": [
+    "test",
+    "index.test.js"
+  ]
+} 
